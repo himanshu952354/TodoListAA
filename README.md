@@ -22,6 +22,8 @@ TodoApp is a full-stack todo application built for Challenge 2. It uses a React 
 - See todo metadata including id, status, priority, due date, created date, and updated date.
 - File-backed persistence using JSON.
 
+For a detailed walkthrough of all pages and functionalities, see [docs/FEATURES.md](docs/FEATURES.md).
+
 ## Tech Stack
 
 - React
