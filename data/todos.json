@@ -1,0 +1,22 @@
+[
+  {
+    "id": "49876c9a-0614-47a3-acea-53697b1969f0",
+    "title": "Hello",
+    "description": "Hello my name is himanshu",
+    "dueDate": "2026-06-26",
+    "priority": "medium",
+    "completed": false,
+    "createdAt": "2026-06-25T09:26:47.259Z",
+    "updatedAt": "2026-06-25T09:26:47.259Z"
+  },
+  {
+    "id": "sample-plan",
+    "title": "Plan the weekly tasks",
+    "description": "Write down the important tasks for this week and choose the top three.",
+    "dueDate": "2026-06-30",
+    "priority": "high",
+    "completed": true,
+    "createdAt": "2026-06-25T09:00:00.000Z",
+    "updatedAt": "2026-06-25T09:31:07.337Z"
+  }
+]
